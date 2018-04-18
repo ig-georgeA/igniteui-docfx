@@ -14,7 +14,7 @@ Grid **summaries** can also be enabled on a per-column level, which means that y
 
 ### Grid Demo
 
-<div class="sample-container loading" style="height:750px">
+<div class="sample-container loading" style="height:720px">
     <iframe id="grid-summary-sample-iframe" src='{environment:demosBaseUrl}/grid-summary' width="100%" height="100%" seamless frameBorder="0" onload="onSampleIframeContentLoaded(this);"></iframe>
 </div>
 <br/>
